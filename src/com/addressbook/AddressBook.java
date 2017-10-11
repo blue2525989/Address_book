@@ -226,6 +226,7 @@ public class AddressBook extends JFrame {
 					STATE_SIZE, raf);
 			String zipText = FixedLengthStringIO.readFixedLengthString(
 					ZIP_SIZE, raf);
+		
 			
 			name.setText(nameText);
 			street.setText(streetText);

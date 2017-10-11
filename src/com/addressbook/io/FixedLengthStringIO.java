@@ -36,5 +36,6 @@ public class FixedLengthStringIO {
 			JOptionPane.showMessageDialog(null, ioe.getMessage());
 		}
 	}
+	
 
 }
